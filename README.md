@@ -27,7 +27,7 @@ pip install RubigramClient
 ```
 **From github:**
 ```bash
-git clone https://github.com/YourUsername/Rubigram.git
+git clone https://github.com/Javad-RZ/Rubigram.git
 cd Rubigram
 ```
 
