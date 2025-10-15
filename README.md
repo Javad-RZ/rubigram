@@ -20,8 +20,15 @@ Rubigram is a powerful asynchronous Python framework for **building advanced bot
 ---
 
 ## Installation
+
+**From pypi:**
 ```bash
 pip install RubigramClient
+```
+**From github:**
+```bash
+git clone https://github.com/YourUsername/Rubigram.git
+cd Rubigram
 ```
 
 ## Quick Example
