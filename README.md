@@ -2,8 +2,17 @@
   <img src="http://rubigram.ir/Rubigram.jpg" alt="Rubigram" width="200"/>
 </p>
 <p align="center">
-  <a href="https://pypi.org/project/RubigramClient">Pypi</a>
+  <strong>Rubika API Framework for Python</strong>
 </p>
+<p align="center">
+  <a href="https://pypi.org/project/RubigramClient">
+    <img src="https://img.shields.io/pypi/v/RubigramClient?style=flat-square" alt="PyPI">
+  </a>
+  <a href="http://rubigram.ir/docs">
+    <img src="https://img.shields.io/badge/docs-online-blue?style=flat-square" alt="Documentation">
+  </a>
+</p>
+
 
 # Rubigram
 
