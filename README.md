@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Javad-RZ/rubigram/main/logo.png" alt="Rubigram Logo" width="200"/>
+  <img src="http://rubigram.ir/Rubigram.jpg" alt="Rubigram" width="200"/>
 </p>
 
 # 🧠 Rubigram
