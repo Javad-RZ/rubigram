@@ -24,7 +24,7 @@ Rubigram is a powerful asynchronous Python framework for **building advanced bot
 pip install RubigramClient
 ```
 
-##Quick Example
+## Quick Example
 ```python
 from rubigram import Client
 from rubigram.types import Update
