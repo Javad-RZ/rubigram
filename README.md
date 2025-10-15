@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://rubigram.ir/Rubigram.jpg" alt="Rubigram" width="200"/>
+  <img src="http://rubigram.ir/rubigram.jpg" alt="Rubigram" width="200"/>
 </p>
 <p align="center">
   <strong>Rubika API Framework for Python</strong>
