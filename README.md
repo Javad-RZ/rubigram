@@ -1,7 +1,8 @@
 <p align="center">
   <img src="http://rubigram.ir/Rubigram.jpg" alt="Rubigram" width="200"/>
-  <p Rubika Api Framework for Python </p>
-    
+</p>
+<p align="center">
+  <a href="https://pypi.org/project/RubigramClient">Pypi</a>
 </p>
 
 # Rubigram
