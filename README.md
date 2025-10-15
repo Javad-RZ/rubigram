@@ -33,14 +33,29 @@ cd Rubigram
 
 ## Quick Example
 ```python
-from rubigram import Client
+from rubigram import Client, filters
 from rubigram.types import Update
 
 client = Client(token="your_token_bot")
 
-@client.on_message()
+@client.on_message(filters.command("start"))
 async def get_messages(client: Client, update: Update):
     await update.reply("Hi, rubigram user.")
 
 client.run()
+```
+
+## Contex Manager
+```python
+from rubigram import Client
+import asyncio
+
+token = "your_token_bot"
+
+async def main():
+    async with Client(token=token) as client:
+        info = await client.get_me()
+        print(info.username)
+
+asyncio.run(main())
 ```
