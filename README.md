@@ -35,4 +35,5 @@ client = Client(token="your_token_bot")
 async def get_messages(client: Client, update: Update):
     await update.reply("Hi, rubigram user.")
 
-client.run()```
+client.run()
+```
